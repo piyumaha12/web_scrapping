@@ -1,4 +1,4 @@
-# web scrapping
+# Web Scrapping
 
 This repository contains all codes related to webscrapping.
 
